@@ -1,0 +1,5 @@
+name: FindRegion
+main: com.oresomecraft.findregion.FindRegion
+version: 1.0-SNAPSHOT
+depend: [WorldEdit]
+depend: [WorldGuard]
